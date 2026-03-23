@@ -1,4 +1,4 @@
-# Terraform Implementations
+# Terraform Implementations 
 
 This repository contains a small set of Terraform examples for provisioning AWS EC2 resources.
 
